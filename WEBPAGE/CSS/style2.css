@@ -1,0 +1,40 @@
+body { 
+color: #e6e6e6;
+background-color: black;
+font-family: italic;
+
+}
+.title-practice  {
+	text-align: center;
+}
+.container-practice { 
+
+background-color: blue;
+
+position: relative;
+display: block;
+margin: 0;
+padding: 0;
+border: solid red 2px;
+box-shadow: 0 4px 15px rgba(0, 0, 0, 0.52);
+
+}
+
+.content-first{
+	background-color: red;  
+	max-width: 300px;
+	margin: auto;
+	padding: 0 10px;
+	
+	text-align: center;
+	
+	
+	}
+.content-second{
+	background-color: purple;  
+	max-width: 300px;
+	margin: auto;
+	text-align: justify;
+	padding: 0 10px;
+	
+}
